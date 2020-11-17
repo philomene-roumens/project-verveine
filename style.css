@@ -119,6 +119,17 @@ body{width:100%;}
 	position: absolute; 
 }
 
+.card-authors {
+	margin: 0px 1000px;
+	width: 300px;
+	position: absolute; 
+	text-align: center;
+}
+
+.card-authors ul {
+	margin: -10px 40px;
+}
+
 .list-inline {
 	list-style: none;
 	font-size: 60px;
