@@ -35,6 +35,21 @@ a:hover {
 body{width:100%;}
 
 
+/* Page format */
+
+@media (max-width: 760px) {
+  .container {
+  	width: 600px; 
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+  	width: 400px; 
+  }
+}
+
+
 /* Custom design with class index.css */
 
 .btnshopnow {
@@ -358,23 +373,6 @@ ul li {
 .banner h2 {
 	font-size: 28px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
