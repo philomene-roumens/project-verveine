@@ -378,11 +378,6 @@ ul li {
 	width: 500px;
 	margin: 170px 140px;
 	border-radius: 4px;
-    filter: grayscale(100%);
-    -webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-    -ms-filter: grayscale(100%);
-    -o-filter: grayscale(100%);
 }
 
 .cardcommitment {
