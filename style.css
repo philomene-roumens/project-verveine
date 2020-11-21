@@ -374,5 +374,15 @@ ul li {
 	font-size: 28px;
 }
 
+.imgbonjour2 img {
+	width: 500px;
+	margin: 170px 140px;
+	border-radius: 4px;}
+
+	<style type= »text/css »>
+
+img:hover {-webkit-filter: grayscale(100%); }
+</style>
+
 
 
